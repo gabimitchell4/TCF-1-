@@ -1,0 +1,4 @@
+gabimitchell@Gabis-MacBook-Pro hw1 % vim emptyfile
+gabimitchell@Gabis-MacBook-Pro hw1 % git add emptyfile
+gabimitchell@Gabis-MacBook-Pro hw1 % git commit -m "added text to secondbranch empty file"
+
