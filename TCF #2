@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        h1 {
+            text-align: left;
+        }
+        h2 {
+            text-align: center;
+        }
+    </style>
+    <head>
+    <title> <h1> "Ayin Class Profile" </h1> </title>
+</head>
+
+<div>
+    <h2> "Hello! I am Gabi" </h2>
+    <img align = "center" src = "Desktop/IMG_1370.JPEG">
+    <h2> "Current TCF Member" </h2>
+    <a href = "aboutme.html">
+    <button> Learn more about me! </button> 
+    </a>    
+    <form action = "aboutme.html">
+        <input type = "submit">
+    </form>
+</div>
+.box 
+{
+   flex-direction: row;
+}
+<div class = "box">
+    <img align = "left" src = "https://nutamid.org/wp-content/uploads/2021/09/TAMID-Icon-2.png">
+    <p> "TAMID at Northeastern was founded in 2015. Generally, all 60 TAMID chapters operate 
+        similarly with a few variations unique to each chaper. TAMID at Northeastern was the first chapter to start
+        a tech consulting track, pioneered by Harrison Hur. In addition to competing at TAMID's global sotck pitch competitions,
+        we also manage our own portfolio of securities."
+    </p>
+
+</div>
+<div>
+    <img align = "right" src = "https://tamidgroup.org/wp-content/uploads/2016/04/feb23.jpg">
+    <p> "Our chaper also has six committees (Education, Recruitment & Membership, FUnd, 
+        Proffessional Partnerships, Social Events, and Marketing & Design) 
+    which help us operate on a larger scale. Lastly, TAMID at Northeastern has always been a pioneer 
+    with our Education process and the global Educationcurriculum is largely base don our curriculum." </p>
+</div>
+</html>
